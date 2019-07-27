@@ -1,0 +1,1 @@
+从 safari 下载 .mobileprovision 文件可以打开 Settings -> General -> Profiles & Device Management 界面以方便用户安装 .mobileconfig 文件或者授权企业应用信用。生成p12证书时可以获取到 .mobileprovision 文件。
